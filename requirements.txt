@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pycryptodome
+qrcode[pil]
+requests
+ascon
+qiskit
+qiskit-aer
+sympy
